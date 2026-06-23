@@ -143,8 +143,57 @@ def draft_topic(topic_file: str) -> bool:
     return True
 
 
+def collect_drafts():
+    """Scan all topic md files, return list of (topic, n_entries, draft_text)."""
+    pat = re.compile(re.escape(BEGIN) + r"\n(.*?)\n" + re.escape(END), re.S)
+    out = []
+    for f in sorted(os.listdir(TOPICS_DIR)):
+        if not f.endswith(".md"): continue
+        path = os.path.join(TOPICS_DIR, f)
+        raw = open(path, encoding="utf-8").read()
+        m = pat.search(raw)
+        if not m: continue
+        n = len(parse_topic_links(path))
+        out.append((os.path.splitext(f)[0], n, m.group(1).strip()))
+    return out
+
+
+def write_review():
+    """Aggregate all existing LLM drafts into wiki/review.md for human审阅."""
+    drafts = collect_drafts()
+    if not drafts:
+        print("no drafts found; run draft_topic first"); return
+    out = [
+        "# 主题综述 LLM 草稿 · Review",
+        "",
+        f"- 共 **{len(drafts)}** 个主题已起草（候选总数 {len(os.listdir(TOPICS_DIR))}）",
+        "- 用途：人工审阅 LLM 自动生成的 topic 顶部综述，确认满意后再跑 `--all`。",
+        "- 修改方式：直接编辑 `wiki/topics/<topic>.md` 中 `<!-- LLM-DRAFT:BEGIN/END -->` 之间的内容；",
+        "  审阅通过后，建议把该 markers 替换为 `<!-- HUMAN-REVIEWED:BEGIN/END -->` 以避免被重跑覆盖。",
+        "",
+        "---",
+        "",
+    ]
+    for topic, n, draft in sorted(drafts, key=lambda x: -x[1]):
+        out += [
+            f"## `{topic}`  · {n} 篇笔记  · {len(draft)} 字",
+            "",
+            f"> {draft}",
+            "",
+            f"- 源文件：[`wiki/topics/{topic}.md`](topics/{topic}.md)",
+            "",
+            "---",
+            "",
+        ]
+    path = os.path.join(ROOT, "wiki", "review.md")
+    open(path, "w", encoding="utf-8").write("\n".join(out))
+    print(f"✓ review file: {os.path.relpath(path, ROOT)}  ({len(drafts)} drafts aggregated)")
+
+
 def main():
     args = sys.argv[1:]
+    if "--review" in args:
+        write_review(); return
     targets = []
     if "--all" in args:
         targets = sorted(os.listdir(TOPICS_DIR))
