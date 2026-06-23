@@ -1,0 +1,416 @@
+[
+  {
+    "file": "wiki/days/day-01-day1-llm-basics.md",
+    "title": "Day 01｜每日 AI 学习笔记 Day 1：LLM 的前世今生",
+    "tags": "learning-notes, AI, QA, LLM",
+    "preview": "# Day 01｜每日 AI 学习笔记 Day 1：LLM 的前世今生  - 📅 日期：2026-04-10 - 🏷️ 标签：learning-notes, AI, QA, LLM - 📄 原文：[`raw/2026-04-10-day1-llm-basics.md`](../../raw/2026-04-10-day1-llm-basics.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 02 day2-prompt-engin"
+  },
+  {
+    "file": "wiki/days/day-02-day2-prompt-engineering.md",
+    "title": "Day 02｜每日 AI 学习笔记 Day 2：Prompt 工程进阶 1",
+    "tags": "learning-notes",
+    "preview": "# Day 02｜每日 AI 学习笔记 Day 2：Prompt 工程进阶 1  - 📅 日期： - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-11-day2-prompt-engineering.md`](../../raw/2026-04-11-day2-prompt-engineering.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 01 day1-llm-basics](./d"
+  },
+  {
+    "file": "wiki/days/day-03-day3-tot-react.md",
+    "title": "Day 03｜每日 AI 学习笔记 Day 3：Prompt 工程进阶 2（ToT 与 ReAct）",
+    "tags": "learning-notes, Agent, QA",
+    "preview": "# Day 03｜每日 AI 学习笔记 Day 3：Prompt 工程进阶 2（ToT 与 ReAct）  - 📅 日期： - 🏷️ 标签：learning-notes, Agent, QA - 📄 原文：[`raw/2026-04-12-day3-tot-react.md`](../../raw/2026-04-12-day3-tot-react.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 01 day1-llm-basic"
+  },
+  {
+    "file": "wiki/days/day-04-day4-structured-output.md",
+    "title": "Day 04｜每日 AI 学习笔记 Day 4：结构化输出约束（JSON Mode 与 Regex Constraint）",
+    "tags": "learning-notes, AI, QA, LLM",
+    "preview": "# Day 04｜每日 AI 学习笔记 Day 4：结构化输出约束（JSON Mode 与 Regex Constraint）  - 📅 日期：2026-04-13 - 🏷️ 标签：learning-notes, AI, QA, LLM - 📄 原文：[`raw/2026-04-13-day4-structured-output.md`](../../raw/2026-04-13-day4-structured-output.md)  ## 反向链接（同主题）  - `[le"
+  },
+  {
+    "file": "wiki/days/day-05-day5-prompt-stability.md",
+    "title": "Day 05｜每日 AI 学习笔记｜Day 5：如何评测 Prompt 的稳定性？",
+    "tags": "learning-notes",
+    "preview": "# Day 05｜每日 AI 学习笔记｜Day 5：如何评测 Prompt 的稳定性？  - 📅 日期：2026-04-14 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-14-day5-prompt-stability.md`](../../raw/2026-04-14-day5-prompt-stability.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 01 day1-llm-b"
+  },
+  {
+    "file": "wiki/days/day-06-day6-embedding-similarity.md",
+    "title": "Day 06｜每日 AI 学习笔记｜Day 6：Embedding 与相似度计算（面向测开）",
+    "tags": "learning-notes",
+    "preview": "# Day 06｜每日 AI 学习笔记｜Day 6：Embedding 与相似度计算（面向测开）  - 📅 日期：2026-04-16 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-16-day6-embedding-similarity.md`](../../raw/2026-04-16-day6-embedding-similarity.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day "
+  },
+  {
+    "file": "wiki/days/day-07-day7-vector-database.md",
+    "title": "Day 07｜每日 AI 学习笔记｜Day 7：向量数据库基础与文档切片入库（面向测开）",
+    "tags": "learning-notes",
+    "preview": "# Day 07｜每日 AI 学习笔记｜Day 7：向量数据库基础与文档切片入库（面向测开）  - 📅 日期：2026-04-17 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-17-day7-vector-database.md`](../../raw/2026-04-17-day7-vector-database.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 01 day1-llm-"
+  },
+  {
+    "file": "wiki/days/day-08-day8-rag-standard-architecture.md",
+    "title": "Day 08｜每日 AI 学习笔记 | Day 8: RAG 标准架构解析（解析→切片→向量化→检索→增强生成）",
+    "tags": "learning-notes",
+    "preview": "# Day 08｜每日 AI 学习笔记 | Day 8: RAG 标准架构解析（解析→切片→向量化→检索→增强生成）  - 📅 日期：2026-04-18 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-18-day8-rag-standard-architecture.md`](../../raw/2026-04-18-day8-rag-standard-architecture.md)  ## 反向链接（同主题）  - `[lear"
+  },
+  {
+    "file": "wiki/days/day-09-day9-rag-evaluation-ragas.md",
+    "title": "Day 09｜每日 AI 学习笔记 | Day 9: RAG 评测体系（RAGAS / 准确率 / 召回率 / 相关性）",
+    "tags": "learning-notes",
+    "preview": "# Day 09｜每日 AI 学习笔记 | Day 9: RAG 评测体系（RAGAS / 准确率 / 召回率 / 相关性）  - 📅 日期：2026-04-19 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-19-day9-rag-evaluation-ragas.md`](../../raw/2026-04-19-day9-rag-evaluation-ragas.md)  ## 反向链接（同主题）  - `[learning-n"
+  },
+  {
+    "file": "wiki/days/day-10-day10-rag-automation-pipeline.md",
+    "title": "Day 10｜每日 AI 学习笔记 | Day 10: 构建 RAG 自动化测试流水线（CI 回归 + 指标门禁）",
+    "tags": "learning-notes",
+    "preview": "# Day 10｜每日 AI 学习笔记 | Day 10: 构建 RAG 自动化测试流水线（CI 回归 + 指标门禁）  - 📅 日期：2026-04-20 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-20-day10-rag-automation-pipeline.md`](../../raw/2026-04-20-day10-rag-automation-pipeline.md)  ## 反向链接（同主题）  - `[learn"
+  },
+  {
+    "file": "wiki/days/day-11-day11-agent-architecture.md",
+    "title": "Day 11｜每日 AI 学习笔记 | Day 11: AI Agent 核心架构解析（Profile / Memory / Planning / Action）",
+    "tags": "learning-notes",
+    "preview": "# Day 11｜每日 AI 学习笔记 | Day 11: AI Agent 核心架构解析（Profile / Memory / Planning / Action）  - 📅 日期：2026-04-23 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-23-day11-agent-architecture.md`](../../raw/2026-04-23-day11-agent-architecture.md)  ## 反向链接（同"
+  },
+  {
+    "file": "wiki/days/day-12-day12-function-calling.md",
+    "title": "Day 12｜每日 AI 学习笔记｜Day 12：Function Calling（函数/工具调用）原理解析",
+    "tags": "learning-notes",
+    "preview": "# Day 12｜每日 AI 学习笔记｜Day 12：Function Calling（函数/工具调用）原理解析  - 📅 日期：2026-04-24 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-24-day12-function-calling.md`](../../raw/2026-04-24-day12-function-calling.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Da"
+  },
+  {
+    "file": "wiki/days/day-13-day13-mcp-protocol.md",
+    "title": "Day 13｜每日 AI 学习笔记｜Day 13：MCP（Model Context Protocol）协议与 Server 架构",
+    "tags": "learning-notes",
+    "preview": "# Day 13｜每日 AI 学习笔记｜Day 13：MCP（Model Context Protocol）协议与 Server 架构  - 📅 日期：2026-04-25 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-25-day13-mcp-protocol.md`](../../raw/2026-04-25-day13-mcp-protocol.md)  ## 反向链接（同主题）  - `[learning-notes]` → "
+  },
+  {
+    "file": "wiki/days/day-14-day14-skill-development-and-orchestration.md",
+    "title": "Day 14｜每日 AI 学习笔记｜Day 14：Skill 技能的开发与编排机制",
+    "tags": "AI, QA, Skill, Agent, 测试开发",
+    "preview": "# Day 14｜每日 AI 学习笔记｜Day 14：Skill 技能的开发与编排机制  - 📅 日期：2026-04-28 - 🏷️ 标签：AI, QA, Skill, Agent, 测试开发 - 📄 原文：[`raw/2026-04-28-day14-skill-development-and-orchestration.md`](../../raw/2026-04-28-day14-skill-development-and-orchestration.md)  ## "
+  },
+  {
+    "file": "wiki/days/day-15-day15-multi-agent-orchestrator-testing.md",
+    "title": "Day 15｜每日 AI 学习笔记｜Day 15：Multi-Agent 与 Orchestrator 测试难点",
+    "tags": "learning-notes",
+    "preview": "# Day 15｜每日 AI 学习笔记｜Day 15：Multi-Agent 与 Orchestrator 测试难点  - 📅 日期：2026-04-30 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-04-30-day15-multi-agent-orchestrator-testing.md`](../../raw/2026-04-30-day15-multi-agent-orchestrator-testing.md)  ## 反向链"
+  },
+  {
+    "file": "wiki/days/day-16-day16-llm-as-a-judge.md",
+    "title": "Day 16｜每日 AI 学习笔记｜Day 16：LLM-as-a-Judge（大模型裁判）评测方法与工程落地",
+    "tags": "learning-notes",
+    "preview": "# Day 16｜每日 AI 学习笔记｜Day 16：LLM-as-a-Judge（大模型裁判）评测方法与工程落地  - 📅 日期：2026-05-01 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-05-01-day16-llm-as-a-judge.md`](../../raw/2026-05-01-day16-llm-as-a-judge.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 0"
+  },
+  {
+    "file": "wiki/days/day-17-day17-rag-testing.md",
+    "title": "Day 17｜每日 AI 学习笔记｜Day 17：RAG（检索增强生成）测试策略与 RAGAS 实战",
+    "tags": "learning-notes",
+    "preview": "# Day 17｜每日 AI 学习笔记｜Day 17：RAG（检索增强生成）测试策略与 RAGAS 实战  - 📅 日期：2026-05-02 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-05-02-day17-rag-testing.md`](../../raw/2026-05-02-day17-rag-testing.md)  ## 反向链接（同主题）  - `[learning-notes]` → [Day 01 day1-llm-"
+  },
+  {
+    "file": "wiki/days/day-18-day18-agent-tool-use-testing.md",
+    "title": "Day 18｜每日 AI 学习笔记｜Day 18：Agent 工具调用（Tool Use / Function Calling）测试策略",
+    "tags": "learning-notes",
+    "preview": "# Day 18｜每日 AI 学习笔记｜Day 18：Agent 工具调用（Tool Use / Function Calling）测试策略  - 📅 日期：2026-05-03 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-05-03-day18-agent-tool-use-testing.md`](../../raw/2026-05-03-day18-agent-tool-use-testing.md)  ## 反向链接（同主题）  "
+  },
+  {
+    "file": "wiki/days/day-19-day19-agent-fault-tolerance.md",
+    "title": "Day 19｜每日 AI 学习笔记｜Day 19：Agent 容错性与爆炸半径（Blast Radius）测试",
+    "tags": "learning-notes",
+    "preview": "# Day 19｜每日 AI 学习笔记｜Day 19：Agent 容错性与爆炸半径（Blast Radius）测试  - 📅 日期：2026-05-04 - 🏷️ 标签：learning-notes - 📄 原文：[`raw/2026-05-04-day19-agent-fault-tolerance.md`](../../raw/2026-05-04-day19-agent-fault-tolerance.md)  ## 反向链接（同主题）  - `[learning-no"
+  },
+  {
+    "file": "wiki/days/day-20-day20-multi-agent-collaboration-testing.md",
+    "title": "Day 20｜每日 AI 学习笔记｜Day 20：多 Agent 协作测试",
+    "tags": "AI, QA, MultiAgent, Agent, 测试开发, Ginkgo",
+    "preview": "# Day 20｜每日 AI 学习笔记｜Day 20：多 Agent 协作测试  - 📅 日期：2026-05-05 - 🏷️ 标签：AI, QA, MultiAgent, Agent, 测试开发, Ginkgo - 📄 原文：[`raw/2026-05-05-day20-multi-agent-collaboration-testing.md`](../../raw/2026-05-05-day20-multi-agent-collaboration-testing.md)"
+  },
+  {
+    "file": "wiki/days/day-21-day21-agent-performance-baseline.md",
+    "title": "Day 21｜每日 AI 学习笔记｜Day 21：AI Agent 性能与稳定性基线测试",
+    "tags": "learning-notes, AI, QA, Agent, performance, baseline",
+    "preview": "# Day 21｜每日 AI 学习笔记｜Day 21：AI Agent 性能与稳定性基线测试  - 📅 日期：2026-05-06 - 🏷️ 标签：learning-notes, AI, QA, Agent, performance, baseline - 📄 原文：[`raw/2026-05-06-day21-agent-performance-baseline.md`](../../raw/2026-05-06-day21-agent-performance-baseli"
+  },
+  {
+    "file": "wiki/days/day-22-day22-load-testing-practice.md",
+    "title": "Day 22｜每日 AI 学习笔记｜Day 22：性能压测实战（Locust/k6 + Agent 场景)",
+    "tags": "learning-notes, AI, QA, performance, load-testing, Agent",
+    "preview": "# Day 22｜每日 AI 学习笔记｜Day 22：性能压测实战（Locust/k6 + Agent 场景)  - 📅 日期：2026-05-07 - 🏷️ 标签：learning-notes, AI, QA, performance, load-testing, Agent - 📄 原文：[`raw/2026-05-07-day22-load-testing-practice.md`](../../raw/2026-05-07-day22-load-testing-pra"
+  },
+  {
+    "file": "wiki/days/day-23-day23-agent-observability-and-tracing.md",
+    "title": "Day 23｜每日 AI 学习笔记｜Day 23：可观测性与链路追踪（OpenTelemetry + Trace）",
+    "tags": "learning-notes, AI, QA, Agent, observability, tracing, OpenTelemetry",
+    "preview": "# Day 23｜每日 AI 学习笔记｜Day 23：可观测性与链路追踪（OpenTelemetry + Trace）  - 📅 日期：2026-05-08 - 🏷️ 标签：learning-notes, AI, QA, Agent, observability, tracing, OpenTelemetry - 📄 原文：[`raw/2026-05-08-day23-agent-observability-and-tracing.md`](../../raw/2026-05"
+  },
+  {
+    "file": "wiki/days/day-24-day24-agent-chaos-engineering.md",
+    "title": "Day 24｜每日 AI 学习笔记｜Day 24：AI Agent 混沌工程与故障注入（Chaos Mesh + Ginkgo E2E）",
+    "tags": "learning-notes, AI, QA, Agent, reliability, chaos, Kubernetes",
+    "preview": "# Day 24｜每日 AI 学习笔记｜Day 24：AI Agent 混沌工程与故障注入（Chaos Mesh + Ginkgo E2E）  - 📅 日期：2026-05-09 - 🏷️ 标签：learning-notes, AI, QA, Agent, reliability, chaos, Kubernetes - 📄 原文：[`raw/2026-05-09-day24-agent-chaos-engineering.md`](../../raw/2026-05-09-"
+  },
+  {
+    "file": "wiki/days/day-25-day25-agent-performance-regression-gates.md",
+    "title": "Day 25｜每日 AI 学习笔记｜Day 25：AI Agent 性能压测资产化与回归门禁（k6 WebSocket + Locust + Ginkgo）",
+    "tags": "learning-notes, AI, QA, Agent, performance, load-testing, k6, Locust, Ginkgo, Playwright",
+    "preview": "# Day 25｜每日 AI 学习笔记｜Day 25：AI Agent 性能压测资产化与回归门禁（k6 WebSocket + Locust + Ginkgo）  - 📅 日期：2026-05-10 - 🏷️ 标签：learning-notes, AI, QA, Agent, performance, load-testing, k6, Locust, Ginkgo, Playwright - 📄 原文：[`raw/2026-05-10-day25-agent-perform"
+  },
+  {
+    "file": "wiki/days/day-26-day26-locust-k6-agent-scenarios.md",
+    "title": "Day 26｜每日 AI 学习笔记｜Day 26：面向 Agent 场景的 Locust/k6 性能压测工程化",
+    "tags": "learning-notes, AI, QA, Agent, performance, load-testing, Locust, k6",
+    "preview": "# Day 26｜每日 AI 学习笔记｜Day 26：面向 Agent 场景的 Locust/k6 性能压测工程化  - 📅 日期：2026-05-11 - 🏷️ 标签：learning-notes, AI, QA, Agent, performance, load-testing, Locust, k6 - 📄 原文：[`raw/2026-05-11-day26-locust-k6-agent-scenarios.md`](../../raw/2026-05-11-day2"
+  },
+  {
+    "file": "wiki/days/day-27-day27-k8s-agent-release-e2e-gates.md",
+    "title": "Day 27｜每日 AI 学习笔记｜Day 27：K8s 环境下 AI Agent 的端到端发布验收",
+    "tags": "learning-notes, AI, QA, Agent, SDET, K8s, Ginkgo, Playwright, API-testing, release-gates",
+    "preview": "# Day 27｜每日 AI 学习笔记｜Day 27：K8s 环境下 AI Agent 的端到端发布验收  - 📅 日期：2026-05-12 - 🏷️ 标签：learning-notes, AI, QA, Agent, SDET, K8s, Ginkgo, Playwright, API-testing, release-gates - 📄 原文：[`raw/2026-05-12-day27-k8s-agent-release-e2e-gates.md`](../../ra"
+  },
+  {
+    "file": "wiki/days/day-28-day28-ai-agent-security-e2e-guardrails.md",
+    "title": "Day 28｜每日 AI 学习笔记｜Day 28：AI Agent 安全测试的端到端防线设计",
+    "tags": "learning-notes, AI, QA, Agent, security, SDET, Ginkgo, Playwright, K8s, e2e",
+    "preview": "# Day 28｜每日 AI 学习笔记｜Day 28：AI Agent 安全测试的端到端防线设计  - 📅 日期：2026-05-13 - 🏷️ 标签：learning-notes, AI, QA, Agent, security, SDET, Ginkgo, Playwright, K8s, e2e - 📄 原文：[`raw/2026-05-13-day28-ai-agent-security-e2e-guardrails.md`](../../raw/2026-05-13"
+  },
+  {
+    "file": "wiki/days/day-29-day29-agent-evaluation-dataset-engineering.md",
+    "title": "Day 29｜每日 AI 学习笔记｜Day 29：AI Agent 评测样本集工程",
+    "tags": "learning-notes, AI, QA, Agent, evaluation, dataset, SDET, Ginkgo, Playwright, K8s, API-testing, e2e",
+    "preview": "# Day 29｜每日 AI 学习笔记｜Day 29：AI Agent 评测样本集工程  - 📅 日期：2026-05-14 - 🏷️ 标签：learning-notes, AI, QA, Agent, evaluation, dataset, SDET, Ginkgo, Playwright, K8s, API-testing, e2e - 📄 原文：[`raw/2026-05-14-day29-agent-evaluation-dataset-engineering.md"
+  },
+  {
+    "file": "wiki/days/day-30-day30-agent-failure-attribution-and-auto-triage.md",
+    "title": "Day 30｜每日 AI 学习笔记｜Day 30：AI Agent 失败归因与自动化分诊",
+    "tags": "learning-notes, AI, QA, Agent, failure-analysis, triage, observability, SDET, Ginkgo, Playwright, K8s, API-testing, e2e",
+    "preview": "# Day 30｜每日 AI 学习笔记｜Day 30：AI Agent 失败归因与自动化分诊  - 📅 日期：2026-05-15 - 🏷️ 标签：learning-notes, AI, QA, Agent, failure-analysis, triage, observability, SDET, Ginkgo, Playwright, K8s, API-testing, e2e - 📄 原文：[`raw/2026-05-15-day30-agent-failure-at"
+  },
+  {
+    "file": "wiki/days/day-31-day31-agent-quality-slo-scorecard.md",
+    "title": "Day 31｜每日 AI 学习笔记｜Day 31：AI Agent 质量 SLO 与发布评分卡",
+    "tags": "learning-notes, AI, QA, Agent, reliability, Automation, Kubernetes, Ginkgo, Playwright",
+    "preview": "# Day 31｜每日 AI 学习笔记｜Day 31：AI Agent 质量 SLO 与发布评分卡  - 📅 日期：2026-05-16 - 🏷️ 标签：learning-notes, AI, QA, Agent, reliability, Automation, Kubernetes, Ginkgo, Playwright - 📄 原文：[`raw/2026-05-16-day31-agent-quality-slo-scorecard.md`](../../raw/202"
+  },
+  {
+    "file": "wiki/days/day-32-day32-agent-quality-dashboard-monitoring.md",
+    "title": "Day 32｜每日 AI 学习笔记｜Day 32：AI Agent 质量看板与持续监控",
+    "tags": "learning-notes, AI, QA, Agent, monitoring, observability, SDET, Ginkgo, Playwright, Kubernetes, API-testing",
+    "preview": "# Day 32｜每日 AI 学习笔记｜Day 32：AI Agent 质量看板与持续监控  - 📅 日期：2026-05-17 - 🏷️ 标签：learning-notes, AI, QA, Agent, monitoring, observability, SDET, Ginkgo, Playwright, Kubernetes, API-testing - 📄 原文：[`raw/2026-05-17-day32-agent-quality-dashboard-monit"
+  },
+  {
+    "file": "wiki/days/day-33-day33-canary-shadow-traffic-testing.md",
+    "title": "Day 33｜每日 AI 学习笔记｜Day 33：AI Agent 灰度发布与影子流量测试",
+    "tags": "learning-notes, AI, QA, Agent, canary, shadow-traffic, progressive-delivery, SDET, Ginkgo, Playwright, Kubernetes, API-testing",
+    "preview": "# Day 33｜每日 AI 学习笔记｜Day 33：AI Agent 灰度发布与影子流量测试  - 📅 日期：2026-05-18 - 🏷️ 标签：learning-notes, AI, QA, Agent, canary, shadow-traffic, progressive-delivery, SDET, Ginkgo, Playwright, Kubernetes, API-testing - 📄 原文：[`raw/2026-05-18-day33-canary-s"
+  },
+  {
+    "file": "wiki/days/day-34-day34-agent-contract-testing-schema-evolution.md",
+    "title": "Day 34｜每日 AI 学习笔记｜Day 34：AI Agent 契约测试与 Schema 演进",
+    "tags": "learning-notes, AI, QA, Agent, contract-testing, schema-evolution, SDET, Ginkgo, Playwright, API-testing, pact, protobuf, backward-compatibility",
+    "preview": "# Day 34｜每日 AI 学习笔记｜Day 34：AI Agent 契约测试与 Schema 演进  - 📅 日期：2026-05-19 - 🏷️ 标签：learning-notes, AI, QA, Agent, contract-testing, schema-evolution, SDET, Ginkgo, Playwright, API-testing, pact, protobuf, backward-compatibility - 📄 原文：[`raw/202"
+  },
+  {
+    "file": "wiki/days/day-35-day35-test-data-management-env-governance.md",
+    "title": "Day 35｜每日 AI 学习笔记｜Day 35：AI Agent 测试数据管理与环境治理",
+    "tags": "learning-notes, AI, QA, Agent, test-data-management, environment-governance, SDET, Ginkgo, Playwright, K8s, fixture, ephemeral-env",
+    "preview": "# Day 35｜每日 AI 学习笔记｜Day 35：AI Agent 测试数据管理与环境治理  - 📅 日期：2026-05-20 - 🏷️ 标签：learning-notes, AI, QA, Agent, test-data-management, environment-governance, SDET, Ginkgo, Playwright, K8s, fixture, ephemeral-env - 📄 原文：[`raw/2026-05-20-day35-test"
+  },
+  {
+    "file": "wiki/days/day-36-day36-regression-testing-intelligent-selection.md",
+    "title": "Day 36｜每日 AI 学习笔记｜Day 36：AI Agent 回归测试策略与智能用例筛选",
+    "tags": "learning-notes, AI, QA, Agent, regression-testing, intelligent-selection, SDET, Ginkgo, Playwright, K8s, test-impact-analysis, risk-scoring",
+    "preview": "# Day 36｜每日 AI 学习笔记｜Day 36：AI Agent 回归测试策略与智能用例筛选  - 📅 日期：2026-05-21 - 🏷️ 标签：learning-notes, AI, QA, Agent, regression-testing, intelligent-selection, SDET, Ginkgo, Playwright, K8s, test-impact-analysis, risk-scoring - 📄 原文：[`raw/2026-05-21"
+  },
+  {
+    "file": "wiki/days/day-37-day37-agent-testability-design-shift-left.md",
+    "title": "Day 37｜每日 AI 学习笔记｜Day 37：AI Agent 可测试性设计与质量左移",
+    "tags": "learning-notes, AI, QA, Agent, testability, shift-left, SDET, Ginkgo, Playwright, K8s, design-for-test, dependency-injection",
+    "preview": "# Day 37｜每日 AI 学习笔记｜Day 37：AI Agent 可测试性设计与质量左移  - 📅 日期：2026-05-22 - 🏷️ 标签：learning-notes, AI, QA, Agent, testability, shift-left, SDET, Ginkgo, Playwright, K8s, design-for-test, dependency-injection - 📄 原文：[`raw/2026-05-22-day37-agent-test"
+  },
+  {
+    "file": "wiki/days/day-38-day38-production-quality-patrol-live-validation.md",
+    "title": "Day 38｜每日 AI 学习笔记｜Day 38：AI Agent 线上质量巡检与生产环境验证",
+    "tags": "learning-notes, AI, QA, Agent, production-patrol, live-validation, synthetic-monitoring, canary-assertion, Ginkgo, Playwright, K8s, SRE",
+    "preview": "# Day 38｜每日 AI 学习笔记｜Day 38：AI Agent 线上质量巡检与生产环境验证  - 📅 日期：2026-05-23 - 🏷️ 标签：learning-notes, AI, QA, Agent, production-patrol, live-validation, synthetic-monitoring, canary-assertion, Ginkgo, Playwright, K8s, SRE - 📄 原文：[`raw/2026-05-23-day"
+  },
+  {
+    "file": "wiki/days/day-39-day39-incident-driven-testing-reliability-engineering.md",
+    "title": "Day 39｜每日 AI 学习笔记｜Day 39：AI Agent 事件驱动测试与可靠性工程",
+    "tags": "learning-notes, AI, QA, Agent, incident-driven-testing, reliability-engineering, postmortem, Ginkgo, Playwright, K8s, SRE, chaos-engineering",
+    "preview": "# Day 39｜每日 AI 学习笔记｜Day 39：AI Agent 事件驱动测试与可靠性工程  - 📅 日期：2026-05-24 - 🏷️ 标签：learning-notes, AI, QA, Agent, incident-driven-testing, reliability-engineering, postmortem, Ginkgo, Playwright, K8s, SRE, chaos-engineering - 📄 原文：[`raw/2026-05-24"
+  },
+  {
+    "file": "wiki/days/day-40-day40-e2e-test-orchestration-cicd-pipeline.md",
+    "title": "Day 40｜每日 AI 学习笔记｜Day 40：AI Agent 端到端测试编排与流水线集成",
+    "tags": "learning-notes, AI, QA, Agent, E2E-testing, test-orchestration, CI-CD, pipeline, Ginkgo, Playwright, K8s, GitHub-Actions",
+    "preview": "# Day 40｜每日 AI 学习笔记｜Day 40：AI Agent 端到端测试编排与流水线集成  - 📅 日期：2026-05-25 - 🏷️ 标签：learning-notes, AI, QA, Agent, E2E-testing, test-orchestration, CI-CD, pipeline, Ginkgo, Playwright, K8s, GitHub-Actions - 📄 原文：[`raw/2026-05-25-day40-e2e-test-orc"
+  },
+  {
+    "file": "wiki/days/day-41-day41-agent-disaster-recovery-drills.md",
+    "title": "Day 41｜每日 AI 学习笔记｜Day 41：AI Agent 灾备演练与恢复测试",
+    "tags": "learning-notes, AI, QA, Agent, disaster-recovery, failover, resilience, Ginkgo, Playwright, K8s, OpenTelemetry",
+    "preview": "# Day 41｜每日 AI 学习笔记｜Day 41：AI Agent 灾备演练与恢复测试  - 📅 日期：2026-05-26 - 🏷️ 标签：learning-notes, AI, QA, Agent, disaster-recovery, failover, resilience, Ginkgo, Playwright, K8s, OpenTelemetry - 📄 原文：[`raw/2026-05-26-day41-agent-disaster-recovery-dr"
+  },
+  {
+    "file": "wiki/days/day-42-day42-agent-cost-governance-token-budget-testing.md",
+    "title": "Day 42｜每日 AI 学习笔记｜Day 42：AI Agent 成本治理与 Token 预算测试",
+    "tags": "learning-notes, AI, QA, Agent, performance, Ginkgo, Playwright, Kubernetes",
+    "preview": "# Day 42｜每日 AI 学习笔记｜Day 42：AI Agent 成本治理与 Token 预算测试  - 📅 日期：2026-05-27 - 🏷️ 标签：learning-notes, AI, QA, Agent, performance, Ginkgo, Playwright, Kubernetes - 📄 原文：[`raw/2026-05-27-day42-agent-cost-governance-token-budget-testing.md`](../../r"
+  },
+  {
+    "file": "wiki/days/day-43-day43-agent-security-red-teaming-guardrails.md",
+    "title": "Day 43｜每日 AI 学习笔记｜Day 43：AI Agent 安全攻防测试与越权防护",
+    "tags": "learning-notes, AI, QA, Agent, security, red-teaming, prompt-injection, Ginkgo, Playwright, Kubernetes",
+    "preview": "# Day 43｜每日 AI 学习笔记｜Day 43：AI Agent 安全攻防测试与越权防护  - 📅 日期：2026-05-28 - 🏷️ 标签：learning-notes, AI, QA, Agent, security, red-teaming, prompt-injection, Ginkgo, Playwright, Kubernetes - 📄 原文：[`raw/2026-05-28-day43-agent-security-red-teaming-guard"
+  },
+  {
+    "file": "wiki/days/day-44-day44-agent-compliance-audit-data-governance-testing.md",
+    "title": "Day 44｜每日 AI 学习笔记｜Day 44：AI Agent 合规审计与数据治理测试",
+    "tags": "learning-notes, AI, QA, Agent, compliance, audit, data-governance, Ginkgo, Playwright, Kubernetes",
+    "preview": "# Day 44｜每日 AI 学习笔记｜Day 44：AI Agent 合规审计与数据治理测试  - 📅 日期：2026-05-29 - 🏷️ 标签：learning-notes, AI, QA, Agent, compliance, audit, data-governance, Ginkgo, Playwright, Kubernetes - 📄 原文：[`raw/2026-05-29-day44-agent-compliance-audit-data-governanc"
+  },
+  {
+    "file": "wiki/days/day-45-day45-agent-delegated-authorization-least-privilege-testing.md",
+    "title": "Day 45｜每日 AI 学习笔记｜Day 45：AI Agent 委托授权与最小权限测试",
+    "tags": "learning-notes, AI, QA, Agent, authorization, least-privilege, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 45｜每日 AI 学习笔记｜Day 45：AI Agent 委托授权与最小权限测试  - 📅 日期：2026-05-30 - 🏷️ 标签：learning-notes, AI, QA, Agent, authorization, least-privilege, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-05-30-day45-agent-delegated-authorizatio"
+  },
+  {
+    "file": "wiki/days/day-46-day46-agent-model-routing-fallback-testing.md",
+    "title": "Day 46｜每日 AI 学习笔记｜Day 46：AI Agent 模型路由与降级回退测试",
+    "tags": "learning-notes, AI, QA, Agent, routing, fallback, reliability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 46｜每日 AI 学习笔记｜Day 46：AI Agent 模型路由与降级回退测试  - 📅 日期：2026-05-31 - 🏷️ 标签：learning-notes, AI, QA, Agent, routing, fallback, reliability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-05-31-day46-agent-model-routing-fallback"
+  },
+  {
+    "file": "wiki/days/day-47-day47-agent-explainability-audit-testing.md",
+    "title": "Day 47｜每日 AI 学习笔记｜Day 47：AI Agent 可解释性与决策审计测试",
+    "tags": "learning-notes, AI, QA, Agent, explainability, audit, observability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 47｜每日 AI 学习笔记｜Day 47：AI Agent 可解释性与决策审计测试  - 📅 日期：2026-06-01 - 🏷️ 标签：learning-notes, AI, QA, Agent, explainability, audit, observability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-01-day47-agent-explainability-a"
+  },
+  {
+    "file": "wiki/days/day-48-day48-agent-memory-stateful-testing.md",
+    "title": "Day 48｜每日 AI 学习笔记｜Day 48：AI Agent 记忆机制与有状态测试",
+    "tags": "learning-notes, AI, QA, Agent, memory, stateful, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 48｜每日 AI 学习笔记｜Day 48：AI Agent 记忆机制与有状态测试  - 📅 日期：2026-06-02 - 🏷️ 标签：learning-notes, AI, QA, Agent, memory, stateful, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-02-day48-agent-memory-stateful-testing.md`](../../ra"
+  },
+  {
+    "file": "wiki/days/day-49-day49-agent-autonomous-decision-planning-testing.md",
+    "title": "Day 49｜每日 AI 学习笔记｜Day 49：AI Agent 自主决策与规划测试",
+    "tags": "learning-notes, AI, QA, Agent, decision-making, planning, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 49｜每日 AI 学习笔记｜Day 49：AI Agent 自主决策与规划测试  - 📅 日期：2026-06-03 - 🏷️ 标签：learning-notes, AI, QA, Agent, decision-making, planning, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-03-day49-agent-autonomous-decision-planning-"
+  },
+  {
+    "file": "wiki/days/day-50-day50-agent-long-running-async-workflow-reliability-testing.md",
+    "title": "Day 50｜每日 AI 学习笔记｜Day 50：AI Agent 长任务执行与异步工作流可靠性测试",
+    "tags": "learning-notes, AI, QA, Agent, async-workflow, reliability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 50｜每日 AI 学习笔记｜Day 50：AI Agent 长任务执行与异步工作流可靠性测试  - 📅 日期：2026-06-04 - 🏷️ 标签：learning-notes, AI, QA, Agent, async-workflow, reliability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-04-day50-agent-long-running-async-w"
+  },
+  {
+    "file": "wiki/days/day-51-day51-agent-human-in-the-loop-approval-testing.md",
+    "title": "Day 51｜每日 AI 学习笔记｜Day 51：AI Agent 人机协同与人工接管（Human-in-the-Loop）测试",
+    "tags": "learning-notes, AI, QA, Agent, human-in-the-loop, approval, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 51｜每日 AI 学习笔记｜Day 51：AI Agent 人机协同与人工接管（Human-in-the-Loop）测试  - 📅 日期：2026-06-05 - 🏷️ 标签：learning-notes, AI, QA, Agent, human-in-the-loop, approval, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-05-day51-agent-human-"
+  },
+  {
+    "file": "wiki/days/day-52-day52-agent-multi-tenant-isolation-workspace-boundary-testing.md",
+    "title": "Day 52｜每日 AI 学习笔记｜Day 52：AI Agent 多租户隔离与工作空间边界测试",
+    "tags": "learning-notes, AI, QA, Agent, tenant-isolation, workspace-security, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 52｜每日 AI 学习笔记｜Day 52：AI Agent 多租户隔离与工作空间边界测试  - 📅 日期：2026-06-06 - 🏷️ 标签：learning-notes, AI, QA, Agent, tenant-isolation, workspace-security, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-06-day52-agent-multi-tenant-"
+  },
+  {
+    "file": "wiki/days/day-53-day53-agent-eval-dataset-prompt-regression-testing.md",
+    "title": "Day 53｜每日 AI 学习笔记｜Day 53：AI Agent 评测集设计与 Prompt 回归测试",
+    "tags": "learning-notes, AI, QA, Agent, eval, prompt-regression, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 53｜每日 AI 学习笔记｜Day 53：AI Agent 评测集设计与 Prompt 回归测试  - 📅 日期：2026-06-07 - 🏷️ 标签：learning-notes, AI, QA, Agent, eval, prompt-regression, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-07-day53-agent-eval-dataset-prompt-re"
+  },
+  {
+    "file": "wiki/days/day-54-day54-agent-online-experiment-ab-testing-quality-guardrails.md",
+    "title": "Day 54｜每日 AI 学习笔记｜Day 54：AI Agent 线上实验与 A/B 测试质量保障",
+    "tags": "learning-notes, AI, QA, Agent, experiment, ab-testing, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 54｜每日 AI 学习笔记｜Day 54：AI Agent 线上实验与 A/B 测试质量保障  - 📅 日期：2026-06-08 - 🏷️ 标签：learning-notes, AI, QA, Agent, experiment, ab-testing, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-08-day54-agent-online-experiment-ab-test"
+  },
+  {
+    "file": "wiki/days/day-55-day55-agent-feedback-loop-evalops.md",
+    "title": "Day 55｜每日 AI 学习笔记｜Day 55：AI Agent 线上反馈闭环与 EvalOps 测试体系",
+    "tags": "learning-notes, AI, QA, Agent, EvalOps, feedback-loop, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 55｜每日 AI 学习笔记｜Day 55：AI Agent 线上反馈闭环与 EvalOps 测试体系  - 📅 日期：2026-06-09 - 🏷️ 标签：learning-notes, AI, QA, Agent, EvalOps, feedback-loop, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-09-day55-agent-feedback-loop-evalops"
+  },
+  {
+    "file": "wiki/days/day-56-day56-agent-synthetic-monitoring-production-qa.md",
+    "title": "Day 56｜每日 AI 学习笔记｜Day 56：AI Agent 线上合成巡检与 Synthetic Monitoring 测试",
+    "tags": "learning-notes, AI, QA, Agent, synthetic-monitoring, observability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 56｜每日 AI 学习笔记｜Day 56：AI Agent 线上合成巡检与 Synthetic Monitoring 测试  - 📅 日期：2026-06-10 - 🏷️ 标签：learning-notes, AI, QA, Agent, synthetic-monitoring, observability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-10-day56-age"
+  },
+  {
+    "file": "wiki/days/day-57-day57-agent-trace-driven-debugging-and-root-cause-analysis.md",
+    "title": "Day 57｜每日 AI 学习笔记｜Day 57：AI Agent Trace 驱动故障定位与分层调试体系",
+    "tags": "learning-notes, AI, QA, Agent, tracing, debugging, root-cause-analysis, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 57｜每日 AI 学习笔记｜Day 57：AI Agent Trace 驱动故障定位与分层调试体系  - 📅 日期：2026-06-11 - 🏷️ 标签：learning-notes, AI, QA, Agent, tracing, debugging, root-cause-analysis, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-11-day57-agent-trace"
+  },
+  {
+    "file": "wiki/days/day-58-day58-agent-config-drift-environment-parity-testing.md",
+    "title": "Day 58｜每日 AI 学习笔记｜Day 58：AI Agent 配置漂移检测与环境一致性测试",
+    "tags": "learning-notes, AI, QA, Agent, config-drift, environment-parity, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 58｜每日 AI 学习笔记｜Day 58：AI Agent 配置漂移检测与环境一致性测试  - 📅 日期：2026-06-12 - 🏷️ 标签：learning-notes, AI, QA, Agent, config-drift, environment-parity, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-12-day58-agent-config-drift-envi"
+  },
+  {
+    "file": "wiki/days/day-59-day59-agent-dependency-degradation-third-party-drills.md",
+    "title": "Day 59｜每日 AI 学习笔记｜Day 59：AI Agent 外部依赖降级与第三方故障演练",
+    "tags": "learning-notes, AI, QA, Agent, resilience, dependency-failure, degradation, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 59｜每日 AI 学习笔记｜Day 59：AI Agent 外部依赖降级与第三方故障演练  - 📅 日期：2026-06-13 - 🏷️ 标签：learning-notes, AI, QA, Agent, resilience, dependency-failure, degradation, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-13-day59-agent-depend"
+  },
+  {
+    "file": "wiki/days/day-60-day60-agent-saga-compensation-eventual-consistency-testing.md",
+    "title": "Day 60｜每日 AI 学习笔记｜Day 60：AI Agent 补偿事务与最终一致性测试",
+    "tags": "learning-notes, AI, QA, Agent, saga, compensation, eventual-consistency, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 60｜每日 AI 学习笔记｜Day 60：AI Agent 补偿事务与最终一致性测试  - 📅 日期：2026-06-14 - 🏷️ 标签：learning-notes, AI, QA, Agent, saga, compensation, eventual-consistency, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-14-day60-agent-saga-compen"
+  },
+  {
+    "file": "wiki/days/day-61-day61-agent-timeout-cancellation-checkpoint-recovery-testing.md",
+    "title": "Day 61｜每日 AI 学习笔记｜Day 61：AI Agent 超时控制、取消传播与 Checkpoint 恢复测试",
+    "tags": "learning-notes, AI, QA, Agent, timeout, cancellation, checkpoint-recovery, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 61｜每日 AI 学习笔记｜Day 61：AI Agent 超时控制、取消传播与 Checkpoint 恢复测试  - 📅 日期：2026-06-15 - 🏷️ 标签：learning-notes, AI, QA, Agent, timeout, cancellation, checkpoint-recovery, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-15-day61-a"
+  },
+  {
+    "file": "wiki/days/day-62-day62-agent-async-callback-webhook-event-driven-reliability-testing.md",
+    "title": "Day 62｜每日 AI 学习笔记｜Day 62：AI Agent 异步回调、Webhook 一致性与事件驱动可靠性测试",
+    "tags": "learning-notes, AI, QA, Agent, async-callback, webhook, event-driven, reliability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 62｜每日 AI 学习笔记｜Day 62：AI Agent 异步回调、Webhook 一致性与事件驱动可靠性测试  - 📅 日期：2026-06-16 - 🏷️ 标签：learning-notes, AI, QA, Agent, async-callback, webhook, event-driven, reliability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-16"
+  },
+  {
+    "file": "wiki/days/day-63-day63-agent-event-sourcing-audit-log-replay-testing.md",
+    "title": "Day 63｜每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计日志与可重放测试",
+    "tags": "learning-notes, AI, QA, Agent, event-sourcing, audit-log, replay-testing, reliability, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 63｜每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计日志与可重放测试  - 📅 日期：2026-06-17 - 🏷️ 标签：learning-notes, AI, QA, Agent, event-sourcing, audit-log, replay-testing, reliability, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-17-day63-"
+  },
+  {
+    "file": "wiki/days/day-63-day63-agent-event-sourcing-audit-replay-testing.md",
+    "title": "Day 63｜每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计链路与可重放回归测试",
+    "tags": "learning-notes, AI, QA, Agent, event-sourcing, audit, replay, Ginkgo, Playwright, Kubernetes, API-Testing",
+    "preview": "# Day 63｜每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计链路与可重放回归测试  - 📅 日期：2026-06-18 - 🏷️ 标签：learning-notes, AI, QA, Agent, event-sourcing, audit, replay, Ginkgo, Playwright, Kubernetes, API-Testing - 📄 原文：[`raw/2026-06-18-day63-agent-event-sourcing-au"
+  },
+  {
+    "file": "wiki/days/day-64-day64-agent-state-machine-invariant-convergence-testing.md",
+    "title": "Day 64｜AI Agent 状态机不变量与收敛性测试",
+    "tags": "AI, QA, Agent, StateMachine, Ginkgo, Playwright, Kubernetes",
+    "preview": "# Day 64｜AI Agent 状态机不变量与收敛性测试  - 📅 日期：2026-06-18 - 🏷️ 标签：AI, QA, Agent, StateMachine, Ginkgo, Playwright, Kubernetes - 📄 原文：[`raw/2026-06-18-day64-agent-state-machine-invariant-convergence-testing.md`](../../raw/2026-06-18-day64-agent-stat"
+  },
+  {
+    "file": "wiki/days/day-65-day65-agent-load-testing-locust-k6.md",
+    "title": "Day 65｜每日 AI 学习笔记｜Day 65：AI Agent 性能压测实战（Locust + k6 + Agent 场景）",
+    "tags": "learning-notes, AI, QA, performance-testing, locust, k6, load-testing, agent",
+    "preview": "# Day 65｜每日 AI 学习笔记｜Day 65：AI Agent 性能压测实战（Locust + k6 + Agent 场景）  - 📅 日期：2026-06-19 - 🏷️ 标签：learning-notes, AI, QA, performance-testing, locust, k6, load-testing, agent - 📄 原文：[`raw/2026-06-19-day65-agent-load-testing-locust-k6.md`](../.."
+  },
+  {
+    "file": "wiki/days/day-66-day66-agent-observability-opentelemetry-tracing.md",
+    "title": "Day 66｜每日 AI 学习笔记｜Day 66：AI Agent 可观测性与链路追踪（OpenTelemetry + Trace）",
+    "tags": "learning-notes, AI, QA, observability, opentelemetry, tracing, agent",
+    "preview": "# Day 66｜每日 AI 学习笔记｜Day 66：AI Agent 可观测性与链路追踪（OpenTelemetry + Trace）  - 📅 日期：2026-06-20 - 🏷️ 标签：learning-notes, AI, QA, observability, opentelemetry, tracing, agent - 📄 原文：[`raw/2026-06-20-day66-agent-observability-opentelemetry-tracing.md`"
+  },
+  {
+    "file": "wiki/days/day-67-day67-agent-chaos-engineering-chaosmesh-fault-injection.md",
+    "title": "Day 67｜每日 AI 学习笔记｜Day 67：AI Agent 混沌工程（ChaosMesh 与故障注入实战）",
+    "tags": "learning-notes, AI, QA, chaos-engineering, chaosmesh, fault-injection, agent, kubernetes",
+    "preview": "# Day 67｜每日 AI 学习笔记｜Day 67：AI Agent 混沌工程（ChaosMesh 与故障注入实战）  - 📅 日期：2026-06-21 - 🏷️ 标签：learning-notes, AI, QA, chaos-engineering, chaosmesh, fault-injection, agent, kubernetes - 📄 原文：[`raw/2026-06-21-day67-agent-chaos-engineering-chaosmesh-"
+  },
+  {
+    "file": "wiki/days/day-68-day68-agent-security-testing-prompt-injection-data-leakage.md",
+    "title": "Day 68｜每日 AI 学习笔记｜Day 68：AI 安全测试（Prompt Injection / 越权 / 数据泄露）",
+    "tags": "learning-notes, AI, QA, security, prompt-injection, authorization, data-leakage, agent, red-team",
+    "preview": "# Day 68｜每日 AI 学习笔记｜Day 68：AI 安全测试（Prompt Injection / 越权 / 数据泄露）  - 📅 日期：2026-06-22 - 🏷️ 标签：learning-notes, AI, QA, security, prompt-injection, authorization, data-leakage, agent, red-team - 📄 原文：[`raw/2026-06-22-day68-agent-security-testin"
+  }
+]

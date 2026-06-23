@@ -11,8 +11,9 @@
 | 浓缩 Day 页 | **69** 篇 → `wiki/days/day-XX-*.md` |
 | 主题聚合页 | **125** 个（按 tag 聚合）→ `wiki/topics/*.md` |
 | 总索引 | `index.md`（Top 主题 + 时间线双视图） |
-| 查询脚本 | `scripts/query.py "<keyword>" --top N` |
-| 查询快照 | `demo_output/query_*.md`（3 条已跑） |
+| 查询脚本 | `scripts/query.py "<keyword>" --top N [--mode hybrid\|vector\|keyword]` |
+| 向量索引 | `wiki/index/`（FAISS + sentence-transformers，69 条） |
+| 查询快照 | `demo_output/query_*.md` + `compare_keyword_vs_vector_vs_hybrid.md` |
 | 摄入日志 | `log.md` |
 | 操作手册 | `AGENTS.md` |
 
@@ -22,10 +23,13 @@
 cd ai-qa-wiki
 # 1) 摄入（已执行过；如改了 raw/ 再跑）
 python3 scripts/ingest.py
-# 2) 查询示例
+# 2) 构建向量索引（首次或新增 day 页后）
+python3 scripts/build_index.py            # 默认尝试 BAAI/bge-m3，回退 MiniLM
+AIQAWIKI_MODEL=BAAI/bge-m3 python3 scripts/build_index.py   # 显式指定模型
+# 3) 查询示例（默认 hybrid = vector + keyword）
 python3 scripts/query.py "RAG 评测"      --top 3
-python3 scripts/query.py "chaos 混沌"    --top 3
-python3 scripts/query.py "多租户隔离"    --top 3
+python3 scripts/query.py "多租户隔离"    --top 3 --mode vector
+python3 scripts/query.py "chaos 混沌"    --top 3 --mode keyword
 ```
 
 ## 🔍 已跑 Query 示例（命中 Top1）
