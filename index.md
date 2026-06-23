@@ -1,0 +1,99 @@
+# AI QA Wiki · 总索引
+
+- 摄入时间：2026-06-23 10:01
+- 浓缩页：**69** 篇 · 主题数：**125**
+
+## 🔥 Top 主题（按频次）
+
+- [`learning-notes`](wiki/topics/learning-notes.md) — 66 篇
+- [`QA`](wiki/topics/QA.md) — 54 篇
+- [`AI`](wiki/topics/AI.md) — 53 篇
+- [`Agent`](wiki/topics/Agent.md) — 48 篇
+- [`Ginkgo`](wiki/topics/Ginkgo.md) — 41 篇
+- [`Playwright`](wiki/topics/Playwright.md) — 40 篇
+- [`Kubernetes`](wiki/topics/Kubernetes.md) — 28 篇
+- [`API-Testing`](wiki/topics/API-Testing.md) — 20 篇
+- [`K8s`](wiki/topics/K8s.md) — 11 篇
+- [`SDET`](wiki/topics/SDET.md) — 10 篇
+- [`observability`](wiki/topics/observability.md) — 6 篇
+- [`reliability`](wiki/topics/reliability.md) — 6 篇
+- [`API-testing`](wiki/topics/API-testing.md) — 6 篇
+- [`performance`](wiki/topics/performance.md) — 5 篇
+- [`load-testing`](wiki/topics/load-testing.md) — 4 篇
+- [`agent`](wiki/topics/agent.md) — 4 篇
+- [`tracing`](wiki/topics/tracing.md) — 3 篇
+- [`k6`](wiki/topics/k6.md) — 3 篇
+- [`security`](wiki/topics/security.md) — 3 篇
+- [`e2e`](wiki/topics/e2e.md) — 3 篇
+
+## 📅 时间线
+
+- **Day 01** · 2026-04-10 · [每日 AI 学习笔记 Day 1：LLM 的前世今生](wiki/days/day-01-day1-llm-basics.md)
+- **Day 02** ·  · [每日 AI 学习笔记 Day 2：Prompt 工程进阶 1](wiki/days/day-02-day2-prompt-engineering.md)
+- **Day 03** ·  · [每日 AI 学习笔记 Day 3：Prompt 工程进阶 2（ToT 与 ReAct）](wiki/days/day-03-day3-tot-react.md)
+- **Day 04** · 2026-04-13 · [每日 AI 学习笔记 Day 4：结构化输出约束（JSON Mode 与 Regex Constraint）](wiki/days/day-04-day4-structured-output.md)
+- **Day 05** · 2026-04-14 · [每日 AI 学习笔记｜Day 5：如何评测 Prompt 的稳定性？](wiki/days/day-05-day5-prompt-stability.md)
+- **Day 06** · 2026-04-16 · [每日 AI 学习笔记｜Day 6：Embedding 与相似度计算（面向测开）](wiki/days/day-06-day6-embedding-similarity.md)
+- **Day 07** · 2026-04-17 · [每日 AI 学习笔记｜Day 7：向量数据库基础与文档切片入库（面向测开）](wiki/days/day-07-day7-vector-database.md)
+- **Day 08** · 2026-04-18 · [每日 AI 学习笔记 | Day 8: RAG 标准架构解析（解析→切片→向量化→检索→增强生成）](wiki/days/day-08-day8-rag-standard-architecture.md)
+- **Day 09** · 2026-04-19 · [每日 AI 学习笔记 | Day 9: RAG 评测体系（RAGAS / 准确率 / 召回率 / 相关性）](wiki/days/day-09-day9-rag-evaluation-ragas.md)
+- **Day 10** · 2026-04-20 · [每日 AI 学习笔记 | Day 10: 构建 RAG 自动化测试流水线（CI 回归 + 指标门禁）](wiki/days/day-10-day10-rag-automation-pipeline.md)
+- **Day 11** · 2026-04-23 · [每日 AI 学习笔记 | Day 11: AI Agent 核心架构解析（Profile / Memory / Planning / Action）](wiki/days/day-11-day11-agent-architecture.md)
+- **Day 12** · 2026-04-24 · [每日 AI 学习笔记｜Day 12：Function Calling（函数/工具调用）原理解析](wiki/days/day-12-day12-function-calling.md)
+- **Day 13** · 2026-04-25 · [每日 AI 学习笔记｜Day 13：MCP（Model Context Protocol）协议与 Server 架构](wiki/days/day-13-day13-mcp-protocol.md)
+- **Day 14** · 2026-04-28 · [每日 AI 学习笔记｜Day 14：Skill 技能的开发与编排机制](wiki/days/day-14-day14-skill-development-and-orchestration.md)
+- **Day 15** · 2026-04-30 · [每日 AI 学习笔记｜Day 15：Multi-Agent 与 Orchestrator 测试难点](wiki/days/day-15-day15-multi-agent-orchestrator-testing.md)
+- **Day 16** · 2026-05-01 · [每日 AI 学习笔记｜Day 16：LLM-as-a-Judge（大模型裁判）评测方法与工程落地](wiki/days/day-16-day16-llm-as-a-judge.md)
+- **Day 17** · 2026-05-02 · [每日 AI 学习笔记｜Day 17：RAG（检索增强生成）测试策略与 RAGAS 实战](wiki/days/day-17-day17-rag-testing.md)
+- **Day 18** · 2026-05-03 · [每日 AI 学习笔记｜Day 18：Agent 工具调用（Tool Use / Function Calling）测试策略](wiki/days/day-18-day18-agent-tool-use-testing.md)
+- **Day 19** · 2026-05-04 · [每日 AI 学习笔记｜Day 19：Agent 容错性与爆炸半径（Blast Radius）测试](wiki/days/day-19-day19-agent-fault-tolerance.md)
+- **Day 20** · 2026-05-05 · [每日 AI 学习笔记｜Day 20：多 Agent 协作测试](wiki/days/day-20-day20-multi-agent-collaboration-testing.md)
+- **Day 21** · 2026-05-06 · [每日 AI 学习笔记｜Day 21：AI Agent 性能与稳定性基线测试](wiki/days/day-21-day21-agent-performance-baseline.md)
+- **Day 22** · 2026-05-07 · [每日 AI 学习笔记｜Day 22：性能压测实战（Locust/k6 + Agent 场景)](wiki/days/day-22-day22-load-testing-practice.md)
+- **Day 23** · 2026-05-08 · [每日 AI 学习笔记｜Day 23：可观测性与链路追踪（OpenTelemetry + Trace）](wiki/days/day-23-day23-agent-observability-and-tracing.md)
+- **Day 24** · 2026-05-09 · [每日 AI 学习笔记｜Day 24：AI Agent 混沌工程与故障注入（Chaos Mesh + Ginkgo E2E）](wiki/days/day-24-day24-agent-chaos-engineering.md)
+- **Day 25** · 2026-05-10 · [每日 AI 学习笔记｜Day 25：AI Agent 性能压测资产化与回归门禁（k6 WebSocket + Locust + Ginkgo）](wiki/days/day-25-day25-agent-performance-regression-gates.md)
+- **Day 26** · 2026-05-11 · [每日 AI 学习笔记｜Day 26：面向 Agent 场景的 Locust/k6 性能压测工程化](wiki/days/day-26-day26-locust-k6-agent-scenarios.md)
+- **Day 27** · 2026-05-12 · [每日 AI 学习笔记｜Day 27：K8s 环境下 AI Agent 的端到端发布验收](wiki/days/day-27-day27-k8s-agent-release-e2e-gates.md)
+- **Day 28** · 2026-05-13 · [每日 AI 学习笔记｜Day 28：AI Agent 安全测试的端到端防线设计](wiki/days/day-28-day28-ai-agent-security-e2e-guardrails.md)
+- **Day 29** · 2026-05-14 · [每日 AI 学习笔记｜Day 29：AI Agent 评测样本集工程](wiki/days/day-29-day29-agent-evaluation-dataset-engineering.md)
+- **Day 30** · 2026-05-15 · [每日 AI 学习笔记｜Day 30：AI Agent 失败归因与自动化分诊](wiki/days/day-30-day30-agent-failure-attribution-and-auto-triage.md)
+- **Day 31** · 2026-05-16 · [每日 AI 学习笔记｜Day 31：AI Agent 质量 SLO 与发布评分卡](wiki/days/day-31-day31-agent-quality-slo-scorecard.md)
+- **Day 32** · 2026-05-17 · [每日 AI 学习笔记｜Day 32：AI Agent 质量看板与持续监控](wiki/days/day-32-day32-agent-quality-dashboard-monitoring.md)
+- **Day 33** · 2026-05-18 · [每日 AI 学习笔记｜Day 33：AI Agent 灰度发布与影子流量测试](wiki/days/day-33-day33-canary-shadow-traffic-testing.md)
+- **Day 34** · 2026-05-19 · [每日 AI 学习笔记｜Day 34：AI Agent 契约测试与 Schema 演进](wiki/days/day-34-day34-agent-contract-testing-schema-evolution.md)
+- **Day 35** · 2026-05-20 · [每日 AI 学习笔记｜Day 35：AI Agent 测试数据管理与环境治理](wiki/days/day-35-day35-test-data-management-env-governance.md)
+- **Day 36** · 2026-05-21 · [每日 AI 学习笔记｜Day 36：AI Agent 回归测试策略与智能用例筛选](wiki/days/day-36-day36-regression-testing-intelligent-selection.md)
+- **Day 37** · 2026-05-22 · [每日 AI 学习笔记｜Day 37：AI Agent 可测试性设计与质量左移](wiki/days/day-37-day37-agent-testability-design-shift-left.md)
+- **Day 38** · 2026-05-23 · [每日 AI 学习笔记｜Day 38：AI Agent 线上质量巡检与生产环境验证](wiki/days/day-38-day38-production-quality-patrol-live-validation.md)
+- **Day 39** · 2026-05-24 · [每日 AI 学习笔记｜Day 39：AI Agent 事件驱动测试与可靠性工程](wiki/days/day-39-day39-incident-driven-testing-reliability-engineering.md)
+- **Day 40** · 2026-05-25 · [每日 AI 学习笔记｜Day 40：AI Agent 端到端测试编排与流水线集成](wiki/days/day-40-day40-e2e-test-orchestration-cicd-pipeline.md)
+- **Day 41** · 2026-05-26 · [每日 AI 学习笔记｜Day 41：AI Agent 灾备演练与恢复测试](wiki/days/day-41-day41-agent-disaster-recovery-drills.md)
+- **Day 42** · 2026-05-27 · [每日 AI 学习笔记｜Day 42：AI Agent 成本治理与 Token 预算测试](wiki/days/day-42-day42-agent-cost-governance-token-budget-testing.md)
+- **Day 43** · 2026-05-28 · [每日 AI 学习笔记｜Day 43：AI Agent 安全攻防测试与越权防护](wiki/days/day-43-day43-agent-security-red-teaming-guardrails.md)
+- **Day 44** · 2026-05-29 · [每日 AI 学习笔记｜Day 44：AI Agent 合规审计与数据治理测试](wiki/days/day-44-day44-agent-compliance-audit-data-governance-testing.md)
+- **Day 45** · 2026-05-30 · [每日 AI 学习笔记｜Day 45：AI Agent 委托授权与最小权限测试](wiki/days/day-45-day45-agent-delegated-authorization-least-privilege-testing.md)
+- **Day 46** · 2026-05-31 · [每日 AI 学习笔记｜Day 46：AI Agent 模型路由与降级回退测试](wiki/days/day-46-day46-agent-model-routing-fallback-testing.md)
+- **Day 47** · 2026-06-01 · [每日 AI 学习笔记｜Day 47：AI Agent 可解释性与决策审计测试](wiki/days/day-47-day47-agent-explainability-audit-testing.md)
+- **Day 48** · 2026-06-02 · [每日 AI 学习笔记｜Day 48：AI Agent 记忆机制与有状态测试](wiki/days/day-48-day48-agent-memory-stateful-testing.md)
+- **Day 49** · 2026-06-03 · [每日 AI 学习笔记｜Day 49：AI Agent 自主决策与规划测试](wiki/days/day-49-day49-agent-autonomous-decision-planning-testing.md)
+- **Day 50** · 2026-06-04 · [每日 AI 学习笔记｜Day 50：AI Agent 长任务执行与异步工作流可靠性测试](wiki/days/day-50-day50-agent-long-running-async-workflow-reliability-testing.md)
+- **Day 51** · 2026-06-05 · [每日 AI 学习笔记｜Day 51：AI Agent 人机协同与人工接管（Human-in-the-Loop）测试](wiki/days/day-51-day51-agent-human-in-the-loop-approval-testing.md)
+- **Day 52** · 2026-06-06 · [每日 AI 学习笔记｜Day 52：AI Agent 多租户隔离与工作空间边界测试](wiki/days/day-52-day52-agent-multi-tenant-isolation-workspace-boundary-testing.md)
+- **Day 53** · 2026-06-07 · [每日 AI 学习笔记｜Day 53：AI Agent 评测集设计与 Prompt 回归测试](wiki/days/day-53-day53-agent-eval-dataset-prompt-regression-testing.md)
+- **Day 54** · 2026-06-08 · [每日 AI 学习笔记｜Day 54：AI Agent 线上实验与 A/B 测试质量保障](wiki/days/day-54-day54-agent-online-experiment-ab-testing-quality-guardrails.md)
+- **Day 55** · 2026-06-09 · [每日 AI 学习笔记｜Day 55：AI Agent 线上反馈闭环与 EvalOps 测试体系](wiki/days/day-55-day55-agent-feedback-loop-evalops.md)
+- **Day 56** · 2026-06-10 · [每日 AI 学习笔记｜Day 56：AI Agent 线上合成巡检与 Synthetic Monitoring 测试](wiki/days/day-56-day56-agent-synthetic-monitoring-production-qa.md)
+- **Day 57** · 2026-06-11 · [每日 AI 学习笔记｜Day 57：AI Agent Trace 驱动故障定位与分层调试体系](wiki/days/day-57-day57-agent-trace-driven-debugging-and-root-cause-analysis.md)
+- **Day 58** · 2026-06-12 · [每日 AI 学习笔记｜Day 58：AI Agent 配置漂移检测与环境一致性测试](wiki/days/day-58-day58-agent-config-drift-environment-parity-testing.md)
+- **Day 59** · 2026-06-13 · [每日 AI 学习笔记｜Day 59：AI Agent 外部依赖降级与第三方故障演练](wiki/days/day-59-day59-agent-dependency-degradation-third-party-drills.md)
+- **Day 60** · 2026-06-14 · [每日 AI 学习笔记｜Day 60：AI Agent 补偿事务与最终一致性测试](wiki/days/day-60-day60-agent-saga-compensation-eventual-consistency-testing.md)
+- **Day 61** · 2026-06-15 · [每日 AI 学习笔记｜Day 61：AI Agent 超时控制、取消传播与 Checkpoint 恢复测试](wiki/days/day-61-day61-agent-timeout-cancellation-checkpoint-recovery-testing.md)
+- **Day 62** · 2026-06-16 · [每日 AI 学习笔记｜Day 62：AI Agent 异步回调、Webhook 一致性与事件驱动可靠性测试](wiki/days/day-62-day62-agent-async-callback-webhook-event-driven-reliability-testing.md)
+- **Day 63** · 2026-06-17 · [每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计日志与可重放测试](wiki/days/day-63-day63-agent-event-sourcing-audit-log-replay-testing.md)
+- **Day 63** · 2026-06-18 · [每日 AI 学习笔记｜Day 63：AI Agent 事件溯源、审计链路与可重放回归测试](wiki/days/day-63-day63-agent-event-sourcing-audit-replay-testing.md)
+- **Day 64** · 2026-06-18 · [AI Agent 状态机不变量与收敛性测试](wiki/days/day-64-day64-agent-state-machine-invariant-convergence-testing.md)
+- **Day 65** · 2026-06-19 · [每日 AI 学习笔记｜Day 65：AI Agent 性能压测实战（Locust + k6 + Agent 场景）](wiki/days/day-65-day65-agent-load-testing-locust-k6.md)
+- **Day 66** · 2026-06-20 · [每日 AI 学习笔记｜Day 66：AI Agent 可观测性与链路追踪（OpenTelemetry + Trace）](wiki/days/day-66-day66-agent-observability-opentelemetry-tracing.md)
+- **Day 67** · 2026-06-21 · [每日 AI 学习笔记｜Day 67：AI Agent 混沌工程（ChaosMesh 与故障注入实战）](wiki/days/day-67-day67-agent-chaos-engineering-chaosmesh-fault-injection.md)
+- **Day 68** · 2026-06-22 · [每日 AI 学习笔记｜Day 68：AI 安全测试（Prompt Injection / 越权 / 数据泄露）](wiki/days/day-68-day68-agent-security-testing-prompt-injection-data-leakage.md)
