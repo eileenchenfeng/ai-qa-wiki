@@ -3,7 +3,7 @@
 ## 主题综述（LLM 自动起草）
 
 <!-- LLM-DRAFT:BEGIN -->
-该主题下的笔记围绕 AI Agent 的构建、评测与质量保障展开，核心问题集中在如何让基于 LLM 的 Agent 在复杂推理（ToT/ReAct）、技能编排、多 Agent 协作场景下保持输出稳定性、性能基线与故障韧性，并实现可观测、可回归的工程化交付。跨笔记可复用的方法论包括：用结构化输出与 Embedding 相似度（FAISS）做语义断言、用 Ginkgo 编排 E2E 与混沌实验、用 Locust 与 k6（含 WebSocket）压测 Agent 的长链路对话、用 OpenTelemetry Trace 还原工具调用链路，以及把 Prompt 稳定性、性能基线、故障注入沉淀为 CI 回归门禁。对 QA 落地的启发是：一方面应尽早把"语义等价 + Trace 断言"作为 Agent 测试的第一公民，替代脆弱的字面匹配；另一方面建议将性能与混沌用例资产化入库，与 Prompt 版本一同纳入门禁，避免模型或 Skill 升级带来的隐性回归。
+本主题下的 48 篇笔记围绕 AI Agent 的工程化测试与稳定性保障展开，核心问题聚焦在如何让具备推理（ToT/ReAct）、工具调用与多 Agent 协作能力的非确定性系统，在真实负载与故障场景下保持输出质量、链路可追踪与性能可回归。跨笔记可复用的方法论包括：以结构化输出与 Prompt 稳定性测试构建语义层断言、用 Embedding 与 FAISS 做相似度回归、依托 Ginkgo 编写 E2E 与契约用例、使用 Locust 与 k6（含 WebSocket）建立性能基线、通过 OpenTelemetry Trace 打通 Agent 调用链、并借助 Chaos Mesh 注入故障验证多 Agent 协作的韧性。对 QA 的启发是：应尽早将性能基线与语义评估资产化、纳入 CI 回归门禁，避免依赖人工抽检；同时把 Trace、Token 消耗与工具调用成功率作为一等可观测指标，与功能用例同权治理。
 <!-- LLM-DRAFT:END -->
 
 - 共 **48** 篇笔记 · 最近更新：2026-06-18

@@ -3,7 +3,7 @@
 ## 主题综述（LLM 自动起草）
 
 <!-- LLM-DRAFT:BEGIN -->
-本主题围绕大模型应用从基础认知到工程化落地的完整链路展开，核心问题是如何让 LLM 在测开场景下输出可控、可评测、可复现：从 Day 1 的 LLM 原理铺垫，到 Prompt 工程进阶（CoT/ToT/ReAct）、结构化输出约束（JSON Mode、Regex Constraint）、Prompt 稳定性评测，再延伸至 Embedding 相似度、向量数据库与 RAG 标准架构。跨笔记可复用的关键实践包括：以 cosine similarity + 多次采样统计输出方差衡量 Prompt 稳定性、用 JSON Schema 与正则约束兜底解析失败、基于 FAISS/Chroma 做切片入库与召回评估、以 ReAct 框架拆解 Agent 行为便于断言。对 QA 工作的启发是：应把 LLM 输出当作非确定性接口对待，在 Ginkgo 或 pytest 中引入语义断言（embedding 距离阈值）替代字符串完全匹配，并将 RAG 链路按"切片→召回→生成"三段分别建立指标看板，避免端到端黑盒导致的回归盲区。
+该主题下的笔记围绕 LLM 应用从 Prompt 设计到 RAG 落地的全链路展开，核心关注点是如何让不确定性输出在工程层面变得可测、可控、可回归：覆盖 LLM 基础原理、Prompt 工程进阶（CoT/ToT/ReAct）、结构化输出约束（JSON Mode、Regex Constraint）、Prompt 稳定性评测，以及 Embedding 相似度、向量数据库切片入库与 RAG 标准架构。跨笔记可复用的工程实践包括：基于多次采样的稳定性评测（pass@k、语义一致性）、用 cosine similarity 做语义断言、用 FAISS/Chroma 等向量库构建检索基线、用 JSON Schema 校验结构化输出，并结合 Ginkgo、pytest 等框架沉淀回归用例。对 QA 的启发是：应将"语义等价 + 结构合规 + 检索命中率"三类指标纳入回归门禁，替代传统精确匹配断言；同时为 RAG 链路建立切片质量与召回 Top-K 的离线评测集，把不稳定环节前移到 CI 中拦截。
 <!-- LLM-DRAFT:END -->
 
 - 共 **66** 篇笔记 · 最近更新：2026-06-22

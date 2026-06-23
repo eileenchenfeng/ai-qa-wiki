@@ -3,7 +3,7 @@
 ## 主题综述（LLM 自动起草）
 
 <!-- LLM-DRAFT:BEGIN -->
-该主题下的 54 篇笔记围绕 LLM 与 AI Agent 的质量保障展开，核心问题集中在如何将传统 QA 范式迁移到非确定性系统：包括 Prompt 稳定性度量、结构化输出（JSON Mode、Regex Constraint）的契约校验、Embedding 相似度评估、多 Agent 协作链路验证，以及性能基线与可观测性建设。跨笔记可复用的方法论包括基于 FAISS 的语义回归断言、ToT/ReAct 推理路径的可重放测试、Locust/k6 对 Agent 场景的并发压测、OpenTelemetry Trace 串联多跳调用，以及 Skill 编排的契约化用例设计。对 QA 工作的启发是：一方面应尽快沉淀「语义断言 + 结构断言」双层校验框架，替代仅依赖字符串匹配的脆弱用例；另一方面应将 Trace 与性能基线纳入 CI 流水线，对 Agent 的延迟、Token 消耗与工具调用成功率做持续守护，使非确定性输出在工程层面获得可度量、可回归的质量底座。
+该主题下的笔记围绕大模型与 AI Agent 的可测性展开，核心问题是如何把不确定性输出转化为可度量、可回归的质量信号，覆盖从 Prompt 工程（CoT/ToT/ReAct）、结构化输出约束（JSON Mode、Regex Constraint）到 Embedding 相似度、向量检索（FAISS）、多 Agent 协作、性能基线与全链路可观测性的完整链路。跨笔记可复用的方法集中在：以 Schema 校验加正则约束兜底输出稳定性、用 Embedding 相似度替代字面 diff 做语义断言、基于 Locust/k6 构建 Agent 场景化压测、借助 OpenTelemetry Trace 追踪多 Agent 调用链与 Token 成本。建议 QA 在落地时优先沉淀两层资产：一是建立带语义断言的回归用例集，把 Prompt 与 Skill 变更纳入版本化评测；二是将性能基线与 Trace 指标接入 CI，形成质量、成本、时延三位一体的准入门槛。
 <!-- LLM-DRAFT:END -->
 
 - 共 **54** 篇笔记 · 最近更新：2026-06-22

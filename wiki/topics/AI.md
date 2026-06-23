@@ -3,7 +3,7 @@
 ## 主题综述（LLM 自动起草）
 
 <!-- LLM-DRAFT:BEGIN -->
-本主题 53 篇笔记围绕 LLM 与 AI Agent 的全链路质量保障展开，核心问题集中在如何把不确定性强、行为难复现的大模型系统纳入可度量、可回归的工程体系：从 LLM 基础、Prompt 工程与稳定性、ToT/ReAct 推理范式、JSON Mode 与正则约束等结构化输出，延伸到 Embedding 相似度、向量库（FAISS）、Skill 编排，再到多 Agent 协作测试、性能与稳定性基线、Locust/k6 压测、OpenTelemetry 链路追踪以及 Chaos Mesh + Ginkgo E2E 的混沌注入。可复用的方法论是"语义断言 + 结构校验 + Trace 观测 + 基线回归"四件套，将不确定输出转为可比对指标。建议 QA 团队尽早把 Prompt/Schema 纳入版本化管理，并以 Trace ID 串联压测、混沌与功能用例，建立 Agent 的 P95 延迟与成功率基线，避免回归阶段才发现行为漂移。
+该主题下的 53 篇笔记围绕 LLM 与 AI Agent 的全链路质量保障展开，核心问题是：在生成式系统不确定性强、调用链长、依赖外部模型与向量检索的前提下，如何构建可度量、可回归、可观测的测试体系，覆盖从 Prompt 工程、结构化输出约束、ToT/ReAct 推理、Embedding 与向量库（FAISS）相似度评估，到多 Agent 协作、Skill 编排、性能基线与混沌注入的完整链路。可复用的工程实践包括：以 JSON Mode 与 Regex Constraint 固化输出契约、以 Embedding 相似度替代精确断言、用 Locust/k6 建立 Agent 场景下的吞吐与延迟基线、借助 OpenTelemetry Trace 串联多 Agent 调用、通过 Chaos Mesh 与 Ginkgo E2E 注入故障验证韧性。对 QA 的落地建议是：先把 Prompt 稳定性与结构化校验沉淀为可回归的断言层，再以 Trace + 性能基线 + 混沌实验组合形成 Agent 版"非功能测试矩阵"，避免停留在人工抽检式的效果评估。
 <!-- LLM-DRAFT:END -->
 
 - 共 **53** 篇笔记 · 最近更新：2026-06-22
