@@ -1,5 +1,11 @@
 # 主题：`AI`
 
+## 主题综述（LLM 自动起草）
+
+<!-- LLM-DRAFT:BEGIN -->
+本主题 53 篇笔记围绕 LLM 与 AI Agent 的全链路质量保障展开，核心问题集中在如何把不确定性强、行为难复现的大模型系统纳入可度量、可回归的工程体系：从 LLM 基础、Prompt 工程与稳定性、ToT/ReAct 推理范式、JSON Mode 与正则约束等结构化输出，延伸到 Embedding 相似度、向量库（FAISS）、Skill 编排，再到多 Agent 协作测试、性能与稳定性基线、Locust/k6 压测、OpenTelemetry 链路追踪以及 Chaos Mesh + Ginkgo E2E 的混沌注入。可复用的方法论是"语义断言 + 结构校验 + Trace 观测 + 基线回归"四件套，将不确定输出转为可比对指标。建议 QA 团队尽早把 Prompt/Schema 纳入版本化管理，并以 Trace ID 串联压测、混沌与功能用例，建立 Agent 的 P95 延迟与成功率基线，避免回归阶段才发现行为漂移。
+<!-- LLM-DRAFT:END -->
+
 - 共 **53** 篇笔记 · 最近更新：2026-06-22
 
 ## 时间线
